@@ -1,0 +1,1 @@
+# shelter-dog-identifier-and-newsletter
